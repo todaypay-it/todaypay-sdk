@@ -1,4 +1,4 @@
-## TDayPay API SDK for Java
+## ToDayPay API SDK for Java
 
 ## Document
 * [ English API Online Document](https://documenter.getpostman.com/view/10814992/2s93Y3wMc8)
